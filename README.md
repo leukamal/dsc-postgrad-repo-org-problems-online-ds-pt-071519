@@ -12,7 +12,7 @@ Here is a picture of a typical data science project repository. Take a moment to
 
 ![messy repo example](images/MessyRepo.png)
 
-### Issues Identiftied
+### Issues Identified
 
 The issues are identified in the picture below.
 
