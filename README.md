@@ -1,11 +1,17 @@
-# Repository Problems
+# Pointing Out Repository Problems
 
-In this lesson you will:
+
+## Introduction
+
+During the program, you'll have noticed that the structure of a repository evolves over the course of a project. By the end of the project, you need to pause and review your repository to align it with employer expectations. In this lesson, we'll outline some typical issues that 
+
+## Objectives
+You will be able to:
 
 - Identify key issues within an example data science project repository
 - Review industry standards and employer expectations for project organization
 
-Over the course of a project the structure of a repository evolves. By the end of the project, you need to pause and review your repository to align it with employer expectations.
+## Reviewing a Typical Repo and Identifying issues
 
 ### Typical Repo
 Here is a picture of a typical data science project repository. Take a moment to review it and see if you can identify five aspects that could be improved:
@@ -31,3 +37,6 @@ The issues are identified in the picture below.
 ![polished repo example](images/PolishedRepo.png)
 
 A combination of Git & bash commands, along with some thoughtful renaming through GitHub's platform, will fix a messy repository. Please fork and clone the [messy repository example](https://github.com/learn-co-curriculum/dsc-postgrad_Project-Repository) if you want to follow along with the steps detailed on your own machine.
+
+## Summary
+Great! Next up, we;ll be guiding you through a step-by-step list to clean up your repository!
