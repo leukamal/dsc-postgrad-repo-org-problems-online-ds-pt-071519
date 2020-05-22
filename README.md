@@ -3,7 +3,7 @@
 
 ## Introduction
 
-During the program, you'll have noticed that the structure of a repository evolves over the course of a project. By the end of the project, you need to pause and review your repository to align it with employer expectations. In this lesson, we'll outline some typical issues that 
+During the program, you'll have noticed that the structure of a repository evolves over the course of a project. By the end of the project, you need to pause and review your repository to align it with employer expectations. In this lesson, we'll outline some typical issues that can be easily fixed in order to make your repository exemplary.
 
 ## Objectives
 You will be able to:
@@ -39,4 +39,4 @@ The issues are identified in the picture below.
 A combination of Git & bash commands, along with some thoughtful renaming through GitHub's platform, will fix a messy repository. Please fork and clone the [messy repository example](https://github.com/learn-co-curriculum/dsc-postgrad_Project-Repository) if you want to follow along with the steps detailed on your own machine.
 
 ## Summary
-Great! Next up, we;ll be guiding you through a step-by-step list to clean up your repository!
+Great! Next up, we'll be guiding you through a list of steps you can use to clean up a repository.
