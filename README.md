@@ -1,4 +1,4 @@
-# Pointing Out Repository Problems
+# Pointing Out Repository Organization Problems
 
 
 ## Introduction
