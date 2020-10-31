@@ -24,7 +24,7 @@ The issues are identified in the picture below.
 
 ![messy repo example with numbers for problems list](images/MessyRepo_numbered.png)
 
-#### Issues List:
+#### Issues List:bbbb
 
 1. No project description 
 2. No `.gitignore` file , so unwanted files such as `.DS_Store` and `.ipynb_checkpoints` are included
